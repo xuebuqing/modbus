@@ -1,0 +1,1 @@
+gcc unit-test-client.c -o unit-test-client `pkg-config --libs --cflags libmodbus`
